@@ -1,2 +1,2 @@
-# BitNoiseRecords
-Reposo-whatever for the website of BitNoiseRecords 
+So uh basically, don't worry about the existence on this thingy cause it's only purpose is to make the official BitNoise website work.
+P.S check out our YouTube (@bitnoiserecords) for some cool music :D
