@@ -1,0 +1,15 @@
+/* Reset default margin and padding */
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set background with the image from GitHub sexrelease */
+body {
+    background-image: url('![BG](https://github.com/EZITS-DA-DUCK/BitNoiseRecords/assets/174266163/81c6225b-1de0-4ecb-8de7-12b5aa01f08b)');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #000000; /* Fallback color */
+    color: #ffffff; /* Text color */
+    font-family: Arial, sans-serif; /* Font for text */
+}
